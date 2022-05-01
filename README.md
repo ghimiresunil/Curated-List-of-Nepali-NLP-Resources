@@ -34,9 +34,7 @@ Curated List of Resources for Nepali Natural Language Processing
 
 ## 05. Embeddings
 
-- [Pretrained fastText Word Vectors](https://fasttext.cc/docs/en/crawl-vectors.html): [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ne.300.bin.gz),[txt](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ne.300.vec.gz)\
-Trained on Common Crawl and Wikipedia
-- [300-D Word Embeddings (Word2Vec) for Nepali Language](https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language)\
-The text corpus contains more than 90 million running words
+- [Pretrained fastText Word Vectors](https://fasttext.cc/docs/en/crawl-vectors.html): [bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ne.300.bin.gz),[txt](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ne.300.vec.gz): Trained on Common Crawl and Wikipedia
+- [300-D Word Embeddings (Word2Vec) for Nepali Language](https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language): The text corpus contains more than 90 million running words
 
 
