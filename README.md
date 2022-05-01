@@ -23,3 +23,9 @@ Curated List of Resources for Nepali Natural Language Processing
 - [Title Article pairs from news](https://drive.google.com/file/d/1L56k0zonMk6XpelKAXPm45wCmt-9pS3x/view)
 - [Nepali News Classification Dataset](https://drive.google.com/drive/folders/1Vm0UJ3FfWP-3guSan3FZsOV4q7rYuJIG)
 
+##  03. Wikipedia
+
+- [39K Nepali Wikipedia Articles](https://www.kaggle.com/disisbig/nepali-wikipedia-articles)
+
+## 04. Translational Resources
+
