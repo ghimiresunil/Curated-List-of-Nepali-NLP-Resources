@@ -29,3 +29,5 @@ Curated List of Resources for Nepali Natural Language Processing
 
 ## 04. Translational Resources
 
+- [Nepali Translation Parallel Corpus](https://drive.google.com/file/d/1UThfJKJFvDgTu263DNbz-WPNLqoARZ_0/view)
+- [Facebook Low Resource MT Benchmark (FLoRes) Test Sets](https://github.com/facebookresearch/flores)
