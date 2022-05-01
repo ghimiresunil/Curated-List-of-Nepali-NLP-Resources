@@ -1,7 +1,7 @@
 # Curated List of Nepali NLP Resources
 Curated List of Resources for Nepali Natural Language Processing
 
-## Contributing
+## Contributing`Always welcome!`
 
 * Please open a [PR](https://guides.github.com/activities/forking/) for list of ML companies to be added
 
@@ -40,3 +40,28 @@ Curated List of Resources for Nepali Natural Language Processing
 ## 06. NER
 
 - [Nepali NER](https://github.com/oya163/nepali-ner)
+
+## 07. Additional Other Resources
+
+- [Nepali Text Extraction](https://github.com/tnagorra/nepali-text-extraction)
+- [Laxmi Prasad Devkota Poems](https://github.com/devkotasawal1/Poem-Generator/blob/master/lspd.txt)
+- [Nepali Names](https://github.com/datafiction/oya-nepali-nlp/blob/master/data/names/Nepali.txt)
+- [Nepali Ngram](https://github.com/virtualanup/nepalingram)
+- [Nepali Stopwords](https://github.com/sanjaalcorps/NepaliStopWords/blob/master/NepaliStopWords.txt)
+- [Nepali Word List](https://github.com/tesseract-ocr/langdata/blob/master/nep/nep.wordlist)
+- [Nepali transliteration](https://github.com/AchillesKarki/NepaliLipi)
+- [Nepali Textbooks by Cornell Anthropology](https://ecommons.cornell.edu/handle/1813/24179)
+- [Nepali Textbooks from grade 1 to 12](http://lib.moecdc.gov.np/catalog/opac_css/index.php?lvl=cmspage&pageid=6&id_rubrique=105)
+- [Nepali Spelling Correction Dataset](https://github.com/tnagorra/nspell/tree/master/data)
+- [Nepali Contemporary Dictionary](http://ltk.org.np/nepalisabdakos/dict/np_dictionary_db.sql.gz)
+- [Nepali Names list](https://github.com/prabinzz/nepali-wordlist)
+- [English to Nepali dictionary](https://github.com/nirooj56/Nepdict/blob/master/database/data.csv)
+
+## 08. Important Githubs and References
+
+- [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library)
+- [NLP processes for Nepali Language](https://github.com/sushil79g/Nepali_nlp)
+- [NLP for Nepali](https://github.com/goru001/nlp-for-nepali)
+- [Nepali Bhasa](https://github.com/nepali-bhasa)
+- [ml-datasets](https://github.com/amitness/ml-datasets)
+- [openSLR](http://openslr.org/)
