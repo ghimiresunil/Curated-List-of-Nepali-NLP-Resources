@@ -194,3 +194,10 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Support Vector Machines based Part of Speech Tagging for Nepali Text (Shahi and Dhamala, 2013)](https://www.semanticscholar.org/paper/Support-Vector-Machines-based-Part-of-Speech-for-Shahi-Dhamala/b36505276ef839d9b0cf193c6e65032ca5c73b37)
 - Hidden Markov Model Based Probabilistic Part Of Speech Tagging For Nepali Text (Jaishi M.R. Jan 2009)
 
+## 24. Representation Learning
+
+- [Exploring Applications of Representation Learning in Nepali (Nepal A. & Yates A., Apr 2014)](https://link.springer.com/chapter/10.1007%2F978-3-642-54906-9_12)
+
+## 25. Semantic similarity
+
+- [Semantic Sentence Similarity Using Finite State Machine (Sitaula C. and Ojha Y. R., 2013)](https://www.scirp.org/journal/paperinformation.aspx?paperid=40196)
