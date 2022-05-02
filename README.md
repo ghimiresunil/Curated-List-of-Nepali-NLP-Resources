@@ -180,4 +180,17 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Morphological analysis of verbs in Nepali (Basnet, S.B. and Pandey, S.B., 2009)](https://www.academia.edu/download/15389403/nep_ling_24.pdf#page=28)
 - [Nelralec/Bhasha Sanchar Working Paper 2 Categorisation for automated morphosyntactic analysis of Nepali: introducing the Nelralec Tagset (NT-01) (Hardie et al., 2005)](https://web.archive.org/web/20120522194347/http://www.bhashasanchar.org:80/pdfs/nelralec-wp-tagset.pdf)
 
+## 23. POS tagging
+
+- [Probabilistic and Neural Network Based POS Tagging of Ambiguous Nepali text: A Comparative Study (Pradhan A. & Yajnik A., Feb 2021)](https://dl.acm.org/doi/abs/10.1145/3459104.3459146)
+- [Fine-grained part-of-speech tagging in Nepali text (Shrestha I. & Dhakal S. S., 2021)](https://www.sciencedirect.com/science/article/pii/S1877050921012230)
+- [Nepali POS Tagging using Deep Learning Approaches (Sayami et al., Dec 2019)](https://easychair.org/publications/preprint_download/Lczp)
+- [A Deep Learning Approach for Part-of-Speech Tagging in Nepali Language (Prabha et al., 2018)](https://ieeexplore.ieee.org/document/8554812)
+- [General Regression Neural Network Based PoS Tagging for Nepali Text (Archit Yajnik, Apr 2018)](https://www.researchgate.net/publication/325030165_General_Regression_Neural_Network_Based_PoS_Tagging_for_Nepali_Text)
+- [ANN Based POS Tagging For Nepali Text (Archit Yajnik, 2018)](https://www.semanticscholar.org/paper/ANN-Based-POS-Tagging-For-Nepali-Text-ArchitYajnik/8cc1a284d7ea51f267bb33dfdc520ad25d89a3f9?navId=extracted)
+- [Part of Speech Tagging Using Statistical Approach for Nepali Text (Archit Yajnik, 2017)](https://www.semanticscholar.org/paper/Part-of-Speech-Tagging-Using-Statistical-Approach-Yajnik/9f3a6aec785a7ba90999704cfecabb8c016a3d8e)
+- [Enhancing the Performance of Part of Speech tagging of Nepali language through Hybrid approach(Sinha et al., 2015)](https://www.semanticscholar.org/paper/Enhancing-the-Performance-of-Part-of-Speech-tagging-Sinha-Veyie/415e970bee7291b7fe5679a3c7f845f446f899e7)
+- [Hidden Markov Model based Part of Speech Tagging for Nepali language (Paul et al., 2015)](https://ieeexplore.ieee.org/document/7377332)
+- [Support Vector Machines based Part of Speech Tagging for Nepali Text (Shahi and Dhamala, 2013)](https://www.semanticscholar.org/paper/Support-Vector-Machines-based-Part-of-Speech-for-Shahi-Dhamala/b36505276ef839d9b0cf193c6e65032ca5c73b37)
+- Hidden Markov Model Based Probabilistic Part Of Speech Tagging For Nepali Text (Jaishi M.R. Jan 2009)
 
