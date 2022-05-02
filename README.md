@@ -124,4 +124,20 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 - [Detecting emotion from short messages on Nepal earthquake (Saharia Navanath, Oct 2015)](https://ieeexplore.ieee.org/abstract/document/7343089/)
 
-## 17. 
+## 17. Grammar
+
+- [Argument Structure of Nepali Verbs: A Study on Lexico-Semantic Ambiguity  (KM Manger, 2018)](https://d1wqtxts1xzle7.cloudfront.net/62366072/9_-_Argument_Structure_of_Nepali__-_FULLY_FINAL20200314-11417-1vund97.pdf?1584196355=&response-content-disposition=inline%3B+filename%3DArgument_Structure_of_Nepali_Verbs_A_Stu.pdf&Expires=1645040857&Signature=YQxR4F9jfs6y0wR9iN-HQuEe~db~7eriGD2w1qKRUZB1YmavSEGunWsZG4vlo8a23JQan71zEo7YI4plVEVsUg33v0idLgMChBqelPdovDLWWLZv9XReW64phJvdiVsefwZjk0EU1lhQSzS10GJwIauHmcA-GMYP0ZlF-GTJVcA4wepvYRPH5venzytc5ZmqQegz7AXfPZyI-7eo2cw1KqpLHTkKm0uJ7Fg~BUICSbyVkMum~-MeBdb1rCv5OrYlpO~gTReKbpD3ATELd9XgLLFLw6Yk2hFtMfmLXyZh9uSO~ZBq2uR9XV1SX2W~rs35iE5uh--LNpumx8pl5h8p0A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+- [Inflection and derivation in Nepali Noun, adjective and adverb 1 Inflection and derivation in Nepali (Dr. Laxmi Prasad Khatiwada, 2013)](https://www.researchgate.net/publication/237202333_Inflection_and_derivation_in_Nepali_Noun_adjective_and_adverb_1_Inflection_and_derivation_in_Nepali)
+- [Collation Sequence in Nepali - PAN Localization (Gurung S. & Khatiwada L.P.)](https://web.archive.org/web/20120916174715/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP01.pdf)
+- [A collocation-based approach to Nepali postpositions (Hardie, Andrew Jun. 2008)](https://www.researchgate.net/publication/240750540_A_collocation-based_approach_to_Nepali_postpositions)
+- [Collocational properties of adpositions in Nepali and English (Hardie, Andrew Jun. 2007)](http://ucrel.lancs.ac.uk/publications/CL2007/paper/88_Paper.pdf)
+- [(Book) Contemporary issues in Nepalese linguistics (Yadava et al., 2005)](https://www.worldcat.org/title/contemporary-issues-in-nepalese-linguistics/oclc/70054532)
+- [Architectural and System Design of the Nepali Grammar Checker (B.K. Bal, P. Shrestha and M.P. Pustakalaya)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.485.2921&rep=rep1&type=pdf)
+- [Structure of Nepali Grammar (Bal Krishna Bal, 2004)](https://www.researchgate.net/publication/237261579_Structure_of_Nepali_Grammar)
+- [Report on Nepali Computational Grammar (Rupakheti et al.)](https://www.researchgate.net/publication/237310273_Report_on_Nepali_Computational_Grammar)
+- [(Book) Beyond Preferred Argument Structure: Sentences, pronouns, and given referents in Nepali (Genetti C. & Crain L. D., Sep 2003)](https://benjamins.com/catalog/sidag.14.10gen)
+- [Benefactive Constructions in Nepali (Madhav P. Poudel, 2000)](http://www.lib.kobe-u.ac.jp/repository/81001550.pdf)
+- [Aspects of Nepali Grammar (Santa Barbara Papers in Linguistics, Volume 6, 1994 Dept. of Linguistics, UCSB)](https://www.linguistics.ucsb.edu/sites/secure.lsit.ucsb.edu.ling.d7/files/sitefiles/research/papers/Working%20Papers%20Vol%206.pdf)
+- [(Book) A Descriptive Grammar of Nepali and an Analyzed Corpus (Acharya Jayaraj, Jun. 1991)](http://press.georgetown.edu/book/languages/descriptive-grammar-nepali-and-analyzed-corpus)
+
+
