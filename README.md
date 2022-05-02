@@ -3,7 +3,8 @@ Curated List of Resources for Nepali Natural Language Processing
 
 ## Contributing `Always welcome!`
 
-* Please open a [PR](https://guides.github.com/activities/forking/) for list of ML companies to be added
+* If there has been a mistake of any kind (paper name, link, author attribution and so on) or you want me to add new papers related to Nepali NLP, feel free to open an issue describing the case and I'll make sure to correct the mistake or add that paper. In case you, want to suggest changes or updates yourself then fork the repository and create a pull request.
+* In case you, want to suggest changes or updates yourself then fork the repository and create a [pull request](https://guides.github.com/activities/forking/) for curated list of Nepali NLP resources.
 
 ## 01. Speech Resources
 
