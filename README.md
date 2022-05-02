@@ -149,3 +149,14 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 - [Encoder Decoder based Nepali News Headline Generation (Mishra et al., Sep 2020)](https://www.researchgate.net/profile/Jayshree-Rathi/publication/344296357_Encoder_Decoder_based_Nepali_News_Headline_Generation/links/5f6461cba6fdcc0086297a25/Encoder-Decoder-based-Nepali-News-Headline-Generation.pdf)
 - [Cross-lingual Language Model Pretraining (Conneau A. & Lample G., 2019)](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf)
+
+## 20. Lexicon development
+
+- [An Experience in Developing the Nepali Sense Tagged Corpus (Sarkar et. al., 2015)](https://ieeexplore.ieee.org/document/7148388)
+- [Some Challenges of Automated Annotation in A Multilingual Scenario (Roy et.al, 2014)](http://www.ijirset.com/upload/2014/december/67_Some.pdf)
+- [A Proposed Nepali Synset Entry and Extraction Tool (Roy et. al., 2012)](https://research.vu.nl/ws/portalfiles/portal/3628717/gwc2012.pdf#page=317)
+- [Extending corpus annotation of Nepali: advances in tokenisation and lemmatisation (Hardie et al., 2011)](https://escholarship.org/content/qt15t805x8/qt15t805x8.pdf?t=pfpo3r)
+- [Nepali Lexicon (Khatiwada, Laxmi P. and Gurung S.,  2007)](https://www.researchgate.net/publication/237202254_Co-Author_paper_Nepali_Lexicon)
+- [Nepali Lexicon Development (Bista et al.)](https://www.researchgate.net/publication/267789368_Nepali_Lexicon_Development)
+
+## 
