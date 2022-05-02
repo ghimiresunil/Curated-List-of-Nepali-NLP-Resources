@@ -68,7 +68,7 @@ Curated List of Resources for Nepali Natural Language Processing
 
 ## 09. Character Recognition
 
-- - [DevNet: An Efficient CNN Architecture for Handwritten Devanagari Character Recognition (Guha et al., Nov 2019)](https://www.researchgate.net/publication/337626194_DevNet_An_Efficient_CNN_Architecture_for_Handwritten_Devanagari_Character_Recognition)
+- [DevNet: An Efficient CNN Architecture for Handwritten Devanagari Character Recognition (Guha et al., Nov 2019)](https://www.researchgate.net/publication/337626194_DevNet_An_Efficient_CNN_Architecture_for_Handwritten_Devanagari_Character_Recognition)
 - [Optical Character Recognition System for Nepali Language Using ConvNet (Sharma, Manish K. and Bhattarai, Bidhan. 2017)](https://dl.acm.org/doi/10.1145/3055635.3056635)
 - [Dictionary Based Nepali Word Recognition using Neural Network (Dawadi et al., 2017)](https://www.ijser.org/researchpaper/Dictionary-Based-Nepali-Word-Recognition-using-Neural-Network.pdf)
 - [Nepali Character Recognition Using Deep Belief Nets (Neupane Aadesh, 2017)](http://aadeshnpn.com/wp-content/uploads/2018/09/nepali-character-recognition.pdf)
@@ -93,3 +93,11 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Improving Nepali Document Classification by Neural Network (Kafle et el., 2016)](http://conference.ioe.edu.np/ioegc2016/papers/IOEGC-2016-42.pdf)
 - [Mobile SMS Spam Filtering for Nepali Text Using Naïve Bayesian and Support Vector Machine (Shahi and Yadav, 2014)](https://www.scirp.org/journal/PaperInformation.aspx?paperID=40857)
 - [A lexicon pool augmented Naive Bayes Classifier for Nepali Text (Thakur and Singh, 2014)](https://www.researchgate.net/publication/285835091_A_lexicon_pool_augmented_Naive_Bayes_Classifier_for_Nepali_Text)
+
+## 11. Clustering
+
+- [A Comparative Analysis of Particle Swarm Optimization and K-means Algorithm For Text Clustering Using Nepali Wordnet (Sarkar et al., 2014)](https://www.semanticscholar.org/paper/A-Comparative-Analysis-of-Particle-Swarm-and-For-Sarkar-Roy/df68d6083221a6f93f688cd6dd4d9c781bad691f)
+- [Development of Nepali Character Database for CharacterRecognition based on Clustering (Neupane, Adesh; 2014)](https://www.academia.edu/9953982/Development_of_Nepali_Character_Database_for_Character_Recognition_based_on_Clustering)
+- [Semantic Text Clustering Using Enhanced Vector Space Model Using Nepali Language (Chiranjibi Sitaula, 2012)](http://gesj.internet-academy.org.ge/download.php?id=1939.pdf)
+
+## 12. 
