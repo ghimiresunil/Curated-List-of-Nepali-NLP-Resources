@@ -76,3 +76,20 @@ Curated List of Resources for Nepali Natural Language Processing
 - [Off-line Nepali Handwritten Character Recognition Using Multilayer Perceptron and Radial Basis Function Neural Networks (Pant et al., 2012)](http://ashokpant.github.io/publications/ashok_2012_off.pdf)
 - [Research Report on the Nepali OCR (Bal B.K. & Rupakheti P. Sep 2009)](https://web.archive.org/web/20150105025630/http://www.panl10n.net/english/Outputs%20Phase%202/CCs/Nepal/MPP/Papers/2009/research_report_nepali_ocr.pdf)
 - [Combining Multiple Feature Extraction Techniques for Handwritten Devnagari Character Recognition (Arora et al., 2008)](https://arxiv.org/pdf/1005.4032.pdf)
+
+## 10. Classification
+
+- [Vector representation based on a supervised codebook for Nepali documents classification (Sitaula et al., Mar 2021)](https://www.researchgate.net/publication/349763908_Vector_representation_based_on_a_supervised_codebook_for_Nepali_documents_classification)
+- [An Analysis of Classification Algorithms for Nepali News (Acharya K. and Shakya S., Jul. 2020)](https://www.researchgate.net/publication/343228516_An_Analysis_of_Classification_Algorithms_for_Nepali_News)
+- [Nepali SMS filtering Using Decision Trees, Neural Network and Support Vector Machine (Shahi T.B & Shakya S., Oct 2018)](https://www.researchgate.net/publication/334167706_Nepali_SMS_filtering_Using_Decision_Trees_Neural_Network_and_Support_Vector_Machine)
+- [Nepali Text Document Classification Using Deep Neural Network (S. Subba, N. Paudel, and T. Shahi, Jun. 2019)](https://www.nepjol.info/index.php/TUJ/article/view/28677)
+- [Improving Nepali News Recommendation Using Classification Based on LSTM Recurrent Neural Networks (Basnet A. and Timalsina A., 2018)](https://ieeexplore.ieee.org/abstract/document/8586815)
+- [Plagiarism Detection Framework Using Monte Carlo Based Artificial Neural Network for Nepali Language (Bachchan R. K. & Timalsina A. K., 2018)](https://ieeexplore.ieee.org/abstract/document/8586841)
+- [Automated News Classification using N-gram Model and Key Features of Nepali Language (Dangol et al., 2018)](https://www.nepjol.info/index.php/scitech/article/view/23504 )
+- [Nepali News Classification using Naïve Bayes, Support Vector Machines and Neural Networks (Shahi and Pant, 2018)](https://www.researchgate.net/publication/324098346_Nepali_news_classification_using_Naive_Bayes_Support_Vector_Machines_and_Neural_Networks)
+- [Nepali Multi-Class Text Classification (Singh Oyesh M., 2018)](https://oya163.github.io/assets/resume/Nepali_Text_Classification.pdf)
+- [Trend Analysis of Technology News in Nepali Newspapers. A case
+study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conference.ioe.edu.np/publications/ioegc2017/IOEGC-2017-61.pdf)
+- [Improving Nepali Document Classification by Neural Network (Kafle et el., 2016)](http://conference.ioe.edu.np/ioegc2016/papers/IOEGC-2016-42.pdf)
+- [Mobile SMS Spam Filtering for Nepali Text Using Naïve Bayesian and Support Vector Machine (Shahi and Yadav, 2014)](https://www.scirp.org/journal/PaperInformation.aspx?paperID=40857)
+- [A lexicon pool augmented Naive Bayes Classifier for Nepali Text (Thakur and Singh, 2014)](https://www.researchgate.net/publication/285835091_A_lexicon_pool_augmented_Naive_Bayes_Classifier_for_Nepali_Text)
