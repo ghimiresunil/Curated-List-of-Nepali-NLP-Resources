@@ -145,4 +145,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 - [Nepali Image Captioning (Adhikari A. and Ghimire S., Nov. 2019)](https://ieeexplore.ieee.org/abstract/document/8947436)
 
-## 
+## 19. Language modeling
+
+- [Encoder Decoder based Nepali News Headline Generation (Mishra et al., Sep 2020)](https://www.researchgate.net/profile/Jayshree-Rathi/publication/344296357_Encoder_Decoder_based_Nepali_News_Headline_Generation/links/5f6461cba6fdcc0086297a25/Encoder-Decoder-based-Nepali-News-Headline-Generation.pdf)
+- [Cross-lingual Language Model Pretraining (Conneau A. & Lample G., 2019)](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf)
