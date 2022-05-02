@@ -100,4 +100,11 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Development of Nepali Character Database for CharacterRecognition based on Clustering (Neupane, Adesh; 2014)](https://www.academia.edu/9953982/Development_of_Nepali_Character_Database_for_Character_Recognition_based_on_Clustering)
 - [Semantic Text Clustering Using Enhanced Vector Space Model Using Nepali Language (Chiranjibi Sitaula, 2012)](http://gesj.internet-academy.org.ge/download.php?id=1939.pdf)
 
-## 12. 
+## 12. Co-reference resolution
+
+- [A Machine Learning Approach to Anaphora Resolution in Nepali Language (Senapati et al., July 2020)](https://ieeexplore.ieee.org/document/9200135)
+- Anaphoric Resolution in Nepali (Dev Bahadur Poudel and Bivod Aale Magar)
+
+## 13. Corpus development
+
+
