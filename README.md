@@ -109,5 +109,12 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 - [Construction and annotation of a corpus of contemporary Nepali (Yadava et al., 2008)](https://www.researchgate.net/publication/228916687_Construction_and_annotation_of_a_corpus_of_contemporary_Nepali)
 
+## 14. Dependency parsing
+
+- [A Conceptual Graph Approach to the Parsing of Projective Sentences (Pradhan et al., 2019)](http://ijmcs.future-in-tech.net/15.1/R-Asiis.pdf)
+- [Parsing in Nepali Language Using Linear Programming Problem (A. Yajnik, F. Bhutia, and S. Borah, 2019)](https://www.researchgate.net/publication/327603883_Parsing_in_Nepali_Language_Using_Linear_Programming_Problem_IC3_2018)
+- [Parsing Techniques using Paninian Framework on Nepali Language (A. Yajnik and D. Sharma, Nov. 2015)](https://www.researchgate.net/publication/289366165_Parsing_Techniques_using_Paninian_Framework_on_Nepali_Language)
+- [Report on Nepali Computational Grammar (Rupakheti et al.)](https://www.academia.edu/2414578/Report_on_Nepali_Computational_Grammar)
+
 
 
