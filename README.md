@@ -159,4 +159,21 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Nepali Lexicon (Khatiwada, Laxmi P. and Gurung S.,  2007)](https://www.researchgate.net/publication/237202254_Co-Author_paper_Nepali_Lexicon)
 - [Nepali Lexicon Development (Bista et al.)](https://www.researchgate.net/publication/267789368_Nepali_Lexicon_Development)
 
-## 
+## 21. Linguistic Code-switching
+
+- [LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation (Aguilar et al., May 2020)](https://arxiv.org/abs/2005.04322)
+
+## 22. Morphological analysis
+
+- [Morph Analyzer of Verbs in Nepali Language (Bhutia et al., 2021)](https://link.springer.com/chapter/10.1007%2F978-981-15-6202-0_62)
+- [A vowel based word splitter to improve performance of existing Nepali morphological analyzers on words borrowed from Sanskrit (Adhikari M. & Neupane A., Apr 2020)](http://old.ku.edu.np/kuset/vol14_no1/Adhikari_and_Neupane_Vol_14_No_1_2020.pdf)
+- [Design of a Morph Analyzer for Non-Declinable Adjectives of Nepali Language (Borah et al., 2017)](https://dl.acm.org/doi/10.1145/3036290.3036307)
+- [Development of a Morph Analyser for Nepali noun token (Chhetri et al., 2015)](https://www.researchgate.net/publication/308821504_Development_of_a_Morph_Analyser_for_Nepali_noun_token)
+- [Building Morphological Analyzer for Nepali (Rai R. and Bhat, S.M., 2012)](https://www.academia.edu/5484848/Building_Morphological_Analyzer_for_Nepali)
+- [A Computational Analysis of Nepali Morphology: A Model For Natural Language Processing (Balaram Prasain, PhD, 2011)](https://ojs.ub.uni-konstanz.de/jsal/dissertations/diss-balaram.pdf)
+- [A Morphological Analyzer and a Stemmer for Nepali (Bal Krishna Bal)](https://www.researchgate.net/publication/237658531_A_Morphological_Analyzer_and_a_Stemmer_for_Nepali)
+- [A morphosyntactic categorisation scheme for the automated analysis of Nepali (Hardie et al., Dec 2009)](https://www.researchgate.net/publication/332863021_A_morphosyntactic_categorisation_scheme_for_the_automated_analysis_of_Nepali)
+- [Morphological analysis of verbs in Nepali (Basnet, S.B. and Pandey, S.B., 2009)](https://www.academia.edu/download/15389403/nep_ling_24.pdf#page=28)
+- [Nelralec/Bhasha Sanchar Working Paper 2 Categorisation for automated morphosyntactic analysis of Nepali: introducing the Nelralec Tagset (NT-01) (Hardie et al., 2005)](https://web.archive.org/web/20120522194347/http://www.bhashasanchar.org:80/pdfs/nelralec-wp-tagset.pdf)
+
+
