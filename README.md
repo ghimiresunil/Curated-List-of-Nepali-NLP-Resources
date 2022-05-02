@@ -65,3 +65,14 @@ Curated List of Resources for Nepali Natural Language Processing
 - [Nepali Bhasa](https://github.com/nepali-bhasa)
 - [ml-datasets](https://github.com/amitness/ml-datasets)
 - [openSLR](http://openslr.org/)
+
+## 09. Character Recognition
+
+- - [DevNet: An Efficient CNN Architecture for Handwritten Devanagari Character Recognition (Guha et al., Nov 2019)](https://www.researchgate.net/publication/337626194_DevNet_An_Efficient_CNN_Architecture_for_Handwritten_Devanagari_Character_Recognition)
+- [Optical Character Recognition System for Nepali Language Using ConvNet (Sharma, Manish K. and Bhattarai, Bidhan. 2017)](https://dl.acm.org/doi/10.1145/3055635.3056635)
+- [Dictionary Based Nepali Word Recognition using Neural Network (Dawadi et al., 2017)](https://www.ijser.org/researchpaper/Dictionary-Based-Nepali-Word-Recognition-using-Neural-Network.pdf)
+- [Nepali Character Recognition Using Deep Belief Nets (Neupane Aadesh, 2017)](http://aadeshnpn.com/wp-content/uploads/2018/09/nepali-character-recognition.pdf)
+- [Literature Review of Segmentation Problems in Nepali Optical Character Recognition (Bal, Bal Krishna and Pant, Nirajan 2016)](https://www.researchgate.net/publication/291348878_Literature_Review_of_Segmentation_Problems_in_Nepali_Optical_Character_Recognition)
+- [Off-line Nepali Handwritten Character Recognition Using Multilayer Perceptron and Radial Basis Function Neural Networks (Pant et al., 2012)](http://ashokpant.github.io/publications/ashok_2012_off.pdf)
+- [Research Report on the Nepali OCR (Bal B.K. & Rupakheti P. Sep 2009)](https://web.archive.org/web/20150105025630/http://www.panl10n.net/english/Outputs%20Phase%202/CCs/Nepal/MPP/Papers/2009/research_report_nepali_ocr.pdf)
+- [Combining Multiple Feature Extraction Techniques for Handwritten Devnagari Character Recognition (Arora et al., 2008)](https://arxiv.org/pdf/1005.4032.pdf)
