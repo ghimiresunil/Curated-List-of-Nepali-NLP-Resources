@@ -116,5 +116,12 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Parsing Techniques using Paninian Framework on Nepali Language (A. Yajnik and D. Sharma, Nov. 2015)](https://www.researchgate.net/publication/289366165_Parsing_Techniques_using_Paninian_Framework_on_Nepali_Language)
 - [Report on Nepali Computational Grammar (Rupakheti et al.)](https://www.academia.edu/2414578/Report_on_Nepali_Computational_Grammar)
 
+## 15. Embeddings
 
+- [NPVec1: Word Embeddings for Nepali - Construction and Evaluation (Koirala P. & Niraula N. B., Aug 2021)](https://aclanthology.org/2021.repl4nlp-1.18.pdf)
 
+## 16. Emotion Detection
+
+- [Detecting emotion from short messages on Nepal earthquake (Saharia Navanath, Oct 2015)](https://ieeexplore.ieee.org/abstract/document/7343089/)
+
+## 17. 
