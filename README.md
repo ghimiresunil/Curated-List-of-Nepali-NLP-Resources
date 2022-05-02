@@ -141,3 +141,8 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [(Book) A Descriptive Grammar of Nepali and an Analyzed Corpus (Acharya Jayaraj, Jun. 1991)](http://press.georgetown.edu/book/languages/descriptive-grammar-nepali-and-analyzed-corpus)
 
 
+## 18. Image Captioning
+
+- [Nepali Image Captioning (Adhikari A. and Ghimire S., Nov. 2019)](https://ieeexplore.ieee.org/abstract/document/8947436)
+
+## 
