@@ -40,6 +40,10 @@ Curated List of Resources for Nepali Natural Language Processing
 ## 06. NER
 
 - [Nepali NER](https://github.com/oya163/nepali-ner)
+- [Named Entity Recognition (NER) for Nepali (Bal et al., 2019)](https://link.springer.com/chapter/10.1007/978-3-030-29750-3_6)
+- [Named Entity Recognition for Nepali Language (Singh et al., 2019)](https://arxiv.org/abs/1908.05828v1)
+- [Named Entity Recognition for Nepali Text Using Support Vector Machines (Bam and Shahi, 2014)](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=43828)
+- [Named Entity Recognition for Nepali language: A Semi Hybrid Approach (Dey et al., 2014)](https://www.ijeit.com/Vol%203/Issue%208/IJEIT1412201402_04.pdf)
 
 ## 07. Additional Other Resources
 
