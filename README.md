@@ -107,4 +107,7 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 
 ## 13. Corpus development
 
+- [Construction and annotation of a corpus of contemporary Nepali (Yadava et al., 2008)](https://www.researchgate.net/publication/228916687_Construction_and_annotation_of_a_corpus_of_contemporary_Nepali)
+
+
 
