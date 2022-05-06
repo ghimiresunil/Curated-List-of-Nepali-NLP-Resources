@@ -213,3 +213,12 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Classifying sentiments in Nepali subjective texts (Thapa et al., 2016)](https://www.researchgate.net/publication/311755938_Classifying_sentiments_in_Nepali_subjective_texts)
 - [Detecting Sentiment in Nepali texts: A bootstrap approach for Sentiment Analysis of texts in the Nepali language (Gupta et al., 2015)](https://www.researchgate.net/publication/301403864_Detecting_Sentiment_in_Nepali_texts_A_bootstrap_approach_for_Sentiment_Analysis_of_texts_in_the_Nepali_language)
 - [Sentiment Analysis on Nepali Movie Reviews using Machine Learning (A. Yadav and A. K. Pant, 2014)](http://ashokpant.github.io/publications/ashok_2014_sentiment.pdf)
+
+## 27. Speech recognition
+
+- [Large Vocabulary Continuous Speech Recognition for Nepali Language (Baral, Elina & Shrestha, Sagar. Dec 2020)](http://www.ijsps.com/uploadfile/2020/1224/20201224035656984.pdf)
+- [Nepali Speech Recognition Using CNN, GRU and CTC (B. Bhatta, B. Joshi, and R. Maharjhan, Sep. 2020)](https://www.researchgate.net/publication/344402909_Nepali_Speech_Recognition_Using_CNN_GRU_and_CTC)
+- [Nepali Speech Recognition using RNN-CTC Model (P. Regmi, A. Dahal, and B. Joshi, Jul. 2019)](https://www.researchgate.net/publication/334523238_Nepali_Speech_Recognition_using_RNN-CTC_Model)
+- [Crowd-Sourced Speech Corpora for Javanese, Sundanese,
+Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/c24ce05c8c8402a900ea26409230cef3d117910e.pdf)
+- [HMM based isolated word Nepali speech recognition (M. K. Ssarma, A. Gajurel, A. Pokhrel, and B. Joshi, Jul. 2017)](http://mkslive.com/wp-content/uploads/2018/01/ICMLC-4029.pdf)
