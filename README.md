@@ -202,3 +202,14 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 ## 25. Semantic similarity
 
 - [Semantic Sentence Similarity Using Finite State Machine (Sitaula C. and Ojha Y. R., 2013)](https://www.scirp.org/journal/paperinformation.aspx?paperid=40196)
+
+## 26. Sentiment analysis
+
+- [Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts (Singh et al., Dec 2020)](https://ieeexplore.ieee.org/document/9381292)
+- [Named-Entity Based Sentiment Analysis of Nepali News Media Texts (Bal et al., Dec 2020)](https://aclanthology.org/2020.nlptea-1.16/)
+- [Aspect Based Sentiment Analysis of Nepali Text Using Support Vector Machine and Naive Bayes (Tamrakar et al., Nov 2020)](https://www.nepjol.info/index.php/TJ/article/view/32824)
+- [Twitter Sentiment analysis during COVID-19 Outbreak in Nepal (Pokharel B.P., Jun 2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3624719)
+- [Sentiment Analysis in Nepali: Exploring Machine Learning and Lexicon-based Approaches (Piryani, Rajesh et al. , Jan 2020)](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179884)
+- [Classifying sentiments in Nepali subjective texts (Thapa et al., 2016)](https://www.researchgate.net/publication/311755938_Classifying_sentiments_in_Nepali_subjective_texts)
+- [Detecting Sentiment in Nepali texts: A bootstrap approach for Sentiment Analysis of texts in the Nepali language (Gupta et al., 2015)](https://www.researchgate.net/publication/301403864_Detecting_Sentiment_in_Nepali_texts_A_bootstrap_approach_for_Sentiment_Analysis_of_texts_in_the_Nepali_language)
+- [Sentiment Analysis on Nepali Movie Reviews using Machine Learning (A. Yadav and A. K. Pant, 2014)](http://ashokpant.github.io/publications/ashok_2014_sentiment.pdf)
