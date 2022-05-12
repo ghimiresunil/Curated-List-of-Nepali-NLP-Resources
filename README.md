@@ -222,3 +222,8 @@ study: The Kathmandu Post (Adhikari S. and Timalsina A., 2017)](http://conferenc
 - [Crowd-Sourced Speech Corpora for Javanese, Sundanese,
 Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/c24ce05c8c8402a900ea26409230cef3d117910e.pdf)
 - [HMM based isolated word Nepali speech recognition (M. K. Ssarma, A. Gajurel, A. Pokhrel, and B. Joshi, Jul. 2017)](http://mkslive.com/wp-content/uploads/2018/01/ICMLC-4029.pdf)
+
+## 28. Spell Checking
+
+- [Nepali Spell Checker 1.1 and the Thesaurus, Research and Development Bal Krishna Bal et. al., 2007)](https://web.archive.org/web/20131020064957/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP05.pdf)
+- [Nepali Spell Checker. (Bal Krishna Bal et. al.)](https://web.archive.org/web/20150105024511/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP04.pdf)
