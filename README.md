@@ -235,3 +235,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - [A new stemmer for Nepali language (Shrestha and Dhakal, 2016)](https://ieeexplore.ieee.org/document/7749008?reload=true)
 - [An Affix Removal Stemmer for Natural Language Text in Nepali (Paul et al., 2014)](https://www.ijcaonline.org/archives/volume91/number6/15882-3439)
 - [A Hybrid Algorithm for Stemming of Nepali Text (Chiranjibi Sitaula, 2014)](https://file.scirp.org/Html/4-8701252_34712.htm)
+
+## 30. Subjectivity Analysis
+
+- [Analyzing facts and opinions in Nepali subjective texts (Bal et al., Aug 2017)](https://ieeexplore.ieee.org/document/8316445)
