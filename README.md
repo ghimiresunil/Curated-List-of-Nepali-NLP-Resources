@@ -227,3 +227,11 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 - [Nepali Spell Checker 1.1 and the Thesaurus, Research and Development Bal Krishna Bal et. al., 2007)](https://web.archive.org/web/20131020064957/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP05.pdf)
 - [Nepali Spell Checker. (Bal Krishna Bal et. al.)](https://web.archive.org/web/20150105024511/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP04.pdf)
+
+## 29. Stemming
+
+- [A novel rule-based recursive stemming algorithm for Nepali Plagiarism Detection (Shah et al., 2020)](https://www.academia.edu/41677918/A_novel_rule-based_recursive_stemming_algorithm_for_Nepali_Plagiarism_Detection)
+- [A Nepali Rule Based Stemmer and its performance on different NLP applications (Koirala P. & Shakya A., 2020)](https://arxiv.org/abs/2002.09901)
+- [A new stemmer for Nepali language (Shrestha and Dhakal, 2016)](https://ieeexplore.ieee.org/document/7749008?reload=true)
+- [An Affix Removal Stemmer for Natural Language Text in Nepali (Paul et al., 2014)](https://www.ijcaonline.org/archives/volume91/number6/15882-3439)
+- [A Hybrid Algorithm for Stemming of Nepali Text (Chiranjibi Sitaula, 2014)](https://file.scirp.org/Html/4-8701252_34712.htm)
