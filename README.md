@@ -239,3 +239,8 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 ## 30. Subjectivity Analysis
 
 - [Analyzing facts and opinions in Nepali subjective texts (Bal et al., Aug 2017)](https://ieeexplore.ieee.org/document/8316445)
+
+## 31.  Summarization
+
+- [Encoder Decoder based Nepali News Headline Generation (Mishra et. al., Sep 2020)](https://www.ijcaonline.org/archives/volume175/number20/mishra-2020-ijca-920735.pdf)
+- [Salient Sentence Extraction of Nepali Online Health News Texts (Ranabhat et al., 2019)](http://ictaes.org/wp-content/uploads/2019/07/4_21-26Salient-Sentence-Extraction-of-Nepali-Online-Health-News-Texts.pdf)
