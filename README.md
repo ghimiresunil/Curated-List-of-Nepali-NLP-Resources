@@ -287,5 +287,8 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - [Resources for Nepali Word Sense Disambiguation (Shrestha et al., Oct. 2008)](https://ieeexplore.ieee.org/abstract/document/4906758)
 - [Word Sense Disambiguation; a Brief Survey with Application to Nepali (Shrestha et al., Jan 2008)](https://www.researchgate.net/publication/265154046_Word_Sense_Disambiguation_a_Brief_Survey_with_Application_to_Nepali)
 
-## 36. 
+## 36. Application of NLP in Health
+
+- [Exploiting linguistic information from Nepali transcripts for early detection of Alzheimer's disease using natural language processing and machine learning techniques (Adhikari et al., Dec 2021)](https://www.sciencedirect.com/science/article/abs/pii/S1071581921001798)
+- [Detecting Alzheimer’s Disease by Exploiting Linguistic Information from Nepali Transcript (Thapa et al., 2020)](https://link.springer.com/chapter/10.1007%2F978-3-030-63820-7_20)
 
