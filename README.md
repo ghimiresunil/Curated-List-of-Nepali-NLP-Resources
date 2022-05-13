@@ -275,3 +275,17 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - [Handling Honorification in Dobhase: Online English-to-Nepali Machine Translation System (Keshari et al., 2007)](https://www.researchgate.net/publication/269161645_HANDLING_HONORIFICATION_IN_DOBHASE_ONLINE_ENGLISH-TO-NEPALI_MACHINE_TRANSLATION_SYSTEM)
 - Generation of Interlinear form of Nepali text with target language as English (Shrestha et al., 2005)
 - [UNL Nepali Deconverter (Keshari et al., 2005)](https://www.researchgate.net/publication/265043654_UNL_Nepali_Deconverter)
+
+## 35. Word sense disambiguation
+
+- [Word Sense Disambiguation using WSD specific Wordnet of Polysemy Words (Dhungana et al., Sep 2014)](https://arxiv.org/abs/1409.3512)
+- [Word sense disambiguation in Nepali language (Dhungana U.R. & Shakya S., May 2014)](https://ieeexplore.ieee.org/document/6821655)
+- [Word Sense Disambiguation using Clue Words (Dhungana U.R. & Shakya S., 2014)](https://www.nepjol.info/index.php/JIE/article/view/10900/8874)
+- [Knowledge based approaches to nepali word sense disambiguation (Rey et. al., 2014)](http://airccse.org/journal/ijnlc/papers/3314ijnlc05.pdf)
+- Nepali WSD Specific WordNet (Dhungana U.R., 2012)
+- Nepali Word Sense Disambigution using Adapted Lesk Algorithm (Dhungana U.R., 2011)
+- [Resources for Nepali Word Sense Disambiguation (Shrestha et al., Oct. 2008)](https://ieeexplore.ieee.org/abstract/document/4906758)
+- [Word Sense Disambiguation; a Brief Survey with Application to Nepali (Shrestha et al., Jan 2008)](https://www.researchgate.net/publication/265154046_Word_Sense_Disambiguation_a_Brief_Survey_with_Application_to_Nepali)
+
+## 36. 
+
