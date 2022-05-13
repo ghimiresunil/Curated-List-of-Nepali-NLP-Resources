@@ -244,3 +244,18 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 
 - [Encoder Decoder based Nepali News Headline Generation (Mishra et. al., Sep 2020)](https://www.ijcaonline.org/archives/volume175/number20/mishra-2020-ijca-920735.pdf)
 - [Salient Sentence Extraction of Nepali Online Health News Texts (Ranabhat et al., 2019)](http://ictaes.org/wp-content/uploads/2019/07/4_21-26Salient-Sentence-Extraction-of-Nepali-Online-Health-News-Texts.pdf)
+
+## 32. Surveys
+
+- [Towards building advanced natural language applications: an overview of the existing primary resources and applications in Nepali (Bal Krishna Bal, 2009)](https://www.researchgate.net/publication/234790399_Towards_building_advanced_natural_language_applications_an_overview_of_the_existing_primary_resources_and_applications_in_Nepali)
+- [Removing Language Barrier: A Survey of Machine Transliteration (K.C., H. & Thapa S., Aug 2018)](https://www.proquest.com/docview/2608094412?pq-origsite=gscholar&fromopenview=true)
+
+## 33. Text to Speech
+
+- [Nepali Text to Speech Synthesis System using FreeTTS (Shah et al., 2018)](https://www.nepjol.info/index.php/scitech/article/view/23498)
+- [Building a Natural Sounding Text-to-Speech System for the Nepali Language - Research and Development Challenges and Solutions (Bajracharya et al., Aug 2018)](https://pdfs.semanticscholar.org/39cd/441faacb00a318d7121e5bbee7d02e2f73c4.pdf?_ga=2.107574849.293167234.1590247508-1685822225.1585112028)
+- [Enhancing the Quality of Nepali Text-to-Speech Systems (Bal, Bal Krishna and Ghimire, Rupak Raj; Aug 2017)](https://link.springer.com/chapter/10.1007/978-3-319-65551-2_14)
+- Nepali Text to Speech using Time Domain Pitch Synchronous Overlap Add Method (Malla P. 2015)
+- [Nepali Text to Speech Synthesis System using ESNOLA Method of Concatenation (Chettri B. & Shah K.B., Jan 2013)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.4235&rep=rep1&type=pdf)
+
+
