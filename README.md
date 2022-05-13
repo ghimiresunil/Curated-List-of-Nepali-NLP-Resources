@@ -258,4 +258,20 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - Nepali Text to Speech using Time Domain Pitch Synchronous Overlap Add Method (Malla P. 2015)
 - [Nepali Text to Speech Synthesis System using ESNOLA Method of Concatenation (Chettri B. & Shah K.B., Jan 2013)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.4235&rep=rep1&type=pdf)
 
+## 34. Translation
 
+- [Low Resource English to Nepali Sentence Translation Using RNN—Long Short-Term Memory with Attention (Nemkul K. & Shakya S., Mar 2021)](https://link.springer.com/chapter/10.1007%2F978-981-33-4355-9_48)
+- [English to Nepali Sentence Translation Using Recurrent Neural Network with Attention (Nemkul K. & Shakya S., Feb 2021)](https://ieeexplore.ieee.org/document/9397185)
+- [Efforts in the Development of an Augmented English–Nepali Parallel Corpus (Duwal S. & Bal B.K., Dec 2019)](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf)
+- [The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English (Guzman et al. (2019))](https://www.aclweb.org/anthology/D19-1632/)
+- [Neural Machine Translation: Hindi ⇔ Nepali (Laskar et al., 2019)](https://aclanthology.org/W19-5427.pdf)
+- [A Comparative Study of SMT and NMT: Case Study of English-Nepali Language Pair (Bal, Bal Krishna and Acharya, Praveen 2018)](https://www.semanticscholar.org/paper/tudy-of-SMT-and-NMT-%3A-Case-S-tudy-of-English-Nepali-Acharya-Bal/6bd57d32ec7e81e40705b3282da0305c52c94c17?p2df)
+- [English to Nepali Statistical Machine Translation System (Paul et. al., 2018)](https://link.springer.com/chapter/10.1007/978-981-10-6890-4_41)
+- [Expansion of the First Hindi-Nepali Word-Net based BiLingual Dictionary and the advancement of the HumanMachine Interface (Chakraborty et. al., Dec 2011)](https://research.ijcaonline.org/iceice/number6/iceice045.pdf)
+- [Development of a Nepali-English MT system using the Apertium MT platform](http://ltk.org.np/downloads/Report_internship_Apertium_MT_2011.pdf)
+- An Approach Towards The Construction Of The First Hindi-Nepali Word-Net Based Bi-Lingual Dictionary And The Challenges Handled (Chakraborty et al., 2011)
+- [Experiences in building the Nepali WordNet - insights and challenges (Chakraborty et. al., 2009)](https://www.semanticscholar.org/paper/Experiences-in-building-the-Nepali-WordNet-insights-Chakrabarty/4b69af4ab75f8f7ee2de9deef383b6cc38f546bf)
+- [Rule based machine translation system in the context of Nepali text to English text (Shrestha, H. K., 2008)](https://cs.ou.edu/~gsa/csrc08/abstracts/hira_abstract.pdf)
+- [Handling Honorification in Dobhase: Online English-to-Nepali Machine Translation System (Keshari et al., 2007)](https://www.researchgate.net/publication/269161645_HANDLING_HONORIFICATION_IN_DOBHASE_ONLINE_ENGLISH-TO-NEPALI_MACHINE_TRANSLATION_SYSTEM)
+- Generation of Interlinear form of Nepali text with target language as English (Shrestha et al., 2005)
+- [UNL Nepali Deconverter (Keshari et al., 2005)](https://www.researchgate.net/publication/265043654_UNL_Nepali_Deconverter)
