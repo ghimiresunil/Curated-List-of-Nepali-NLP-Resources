@@ -292,3 +292,9 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - [Exploiting linguistic information from Nepali transcripts for early detection of Alzheimer's disease using natural language processing and machine learning techniques (Adhikari et al., Dec 2021)](https://www.sciencedirect.com/science/article/abs/pii/S1071581921001798)
 - [Detecting Alzheimer’s Disease by Exploiting Linguistic Information from Nepali Transcript (Thapa et al., 2020)](https://link.springer.com/chapter/10.1007%2F978-3-030-63820-7_20)
 
+## 37. Miscellaneous
+
+- [Linguistic Taboos and Euphemisms in Nepali (Nobal B. Niraula and Saurab Dulal and Diwa Koirala, 2020)](https://arxiv.org/abs/2007.13798v1)
+- [Issues in Encoding the Writing of Nepal’s Languages (Hall et al., 2014)](https://link.springer.com/chapter/10.1007/978-3-642-54906-9_5)
+- [Research Report on PDA Localization (Bal et al.)](https://web.archive.org/web/20150105024515/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP19.pdf)
+
