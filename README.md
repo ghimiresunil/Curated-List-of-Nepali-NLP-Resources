@@ -292,7 +292,18 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - [Exploiting linguistic information from Nepali transcripts for early detection of Alzheimer's disease using natural language processing and machine learning techniques (Adhikari et al., Dec 2021)](https://www.sciencedirect.com/science/article/abs/pii/S1071581921001798)
 - [Detecting Alzheimer’s Disease by Exploiting Linguistic Information from Nepali Transcript (Thapa et al., 2020)](https://link.springer.com/chapter/10.1007%2F978-3-030-63820-7_20)
 
-## 37. Miscellaneous
+## 37. Nepali Plagiarism Detection
+
+- https://towardsdatascience.com/overview-of-text-similarity-metrics-3397c4601f50
+- https://medium.com/@adriensieg/text-similarities-da019229c894
+- https://stackoverflow.com/questions/8897593/how-to-compute-the-similarity-between-two-text-documents
+- http://mkusner.github.io/publications/WMD.pdf
+- http://text2vec.org/similarity.html
+- https://pdfs.semanticscholar.org/5b5c/a878c534aee3882a038ef9e82f46e102131b.pdf
+- https://blogs.oracle.com/meena/finding-similarity-between-text-documents
+- https://sites.temple.edu/tudsc/2017/03/30/measuring-similarity-between-texts-in-python/
+
+## 38. Miscellaneous
 
 - [Linguistic Taboos and Euphemisms in Nepali (Nobal B. Niraula and Saurab Dulal and Diwa Koirala, 2020)](https://arxiv.org/abs/2007.13798v1)
 - [Issues in Encoding the Writing of Nepal’s Languages (Hall et al., 2014)](https://link.springer.com/chapter/10.1007/978-3-642-54906-9_5)
