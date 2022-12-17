@@ -317,4 +317,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 | 1 | Nepali News Dataset | [🔗](https://www.kaggle.com/datasets/lotusacharya/nepalinewsdataset) |
 | 2 | OSCAR Corpus Nepali | [🔗](https://www.kaggle.com/datasets/hsebarp/oscar-corpus-nepali) |
 | 3 | Nepali Wikipedia Articles | [🔗](https://www.kaggle.com/datasets/hsebarp/oscar-corpus-nepali) |
-
+| 4 | iNLTK Nepali News Dataset | [🔗](https://www.kaggle.com/datasets/disisbig/nepali-news-dataset) |
+| 5 | NepaliNews Corpus | [🔗](https://github.com/sndsabin/Nepali-News-Classifier) |
+| 6 | Nepali News Dataset (Large) | [🔗](https://www.kaggle.com/datasets/ashokpant/nepali-news-dataset-large) |
+| 7 | Nepali News Dataset (Small) | [🔗](https://www.kaggle.com/datasets/tejshahi/20nepalinews) |
