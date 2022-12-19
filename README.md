@@ -324,5 +324,6 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 | 8 | Nepali-English language pair | [🔗](https://github.com/sharad461/nepali-translator) |
 | 9 | FOURTH CONFERENCE ON MACHINE TRANSLATION (WMT19) | [🔗](https://www.statmt.org/wmt19/parallel-corpus-filtering.html) |
 | 10 | English-Nepali Parallel Corpus | [🔗](https://catalog.elra.info/en-us/repository/browse/ELRA-W0077/ |
-| 11 | English - Nepali translated strings | [🔗](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1069&lang=en) |
+| 11 | Nepali NER | [🔗](https://github.com/oya163/nepali-ner/tree/master/data/ebiquity_v2) |
+
 
