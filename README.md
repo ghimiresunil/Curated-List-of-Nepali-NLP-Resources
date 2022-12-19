@@ -323,7 +323,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 | 7 | Nepali News Dataset (Small) | [🔗](https://www.kaggle.com/datasets/tejshahi/20nepalinews) |
 | 8 | Nepali-English language pair | [🔗](https://github.com/sharad461/nepali-translator) |
 | 9 | FOURTH CONFERENCE ON MACHINE TRANSLATION (WMT19) | [🔗](https://www.statmt.org/wmt19/parallel-corpus-filtering.html) |
-| 10 | English-Nepali Parallel Corpus | [🔗](https://catalog.elra.info/en-us/repository/browse/ELRA-W0077/ |
+| 10 | English-Nepali Parallel Corpus | [🔗](https://catalog.elra.info/en-us/repository/browse/ELRA-W0077/) |
 | 11 | Nepali NER | [🔗](https://github.com/oya163/nepali-ner/tree/master/data/ebiquity_v2) |
 
 
