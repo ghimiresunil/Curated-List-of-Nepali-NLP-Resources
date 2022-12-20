@@ -325,5 +325,11 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 | 9 | FOURTH CONFERENCE ON MACHINE TRANSLATION (WMT19) | [🔗](https://www.statmt.org/wmt19/parallel-corpus-filtering.html) |
 | 10 | English-Nepali Parallel Corpus | [🔗](https://catalog.elra.info/en-us/repository/browse/ELRA-W0077/) |
 | 11 | Nepali NER | [🔗](https://github.com/oya163/nepali-ner/tree/master/data/ebiquity_v2) |
+| 12 | Nepali Data Set for Sentiment Analysis | [🔗](https://mahesha.com.np/nepali-data-set-for-sentiment-analysis/) |
+| 13 | NepaliSentiment | [🔗](https://github.com/rockerritesh/NepaliSentiment) |
+| 14 | Sentiment_analysis_in_Nepali | [🔗](https://github.com/sarozz/Sentiment_analysis_in_Nepali/blob/master/data.csv) |
+| 15 | SentimentAnalysis | [🔗](https://github.com/sagarl123/NepaliNLP-SentimentAnalysis/blob/main/collected_labeled_data.csv) |
+| 16 | Nepali Sentiment Analysis| [🔗](https://www.kaggle.com/datasets/smaheshacharya/nepali-sentiment-analysis) |
+| 17 | Nepali Language Sentiment Analysis - Movie Reviews | [🔗](https://www.kaggle.com/datasets/shikharghimire/nepali-language-sentiment-analysis-movie-reviews) |
 
 
