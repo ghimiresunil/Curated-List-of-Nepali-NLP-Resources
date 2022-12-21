@@ -332,5 +332,8 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 | 16 | Nepali Sentiment Analysis| [🔗](https://www.kaggle.com/datasets/smaheshacharya/nepali-sentiment-analysis) |
 | 17 | Nepali Language Sentiment Analysis - Movie Reviews | [🔗](https://www.kaggle.com/code/imageinfo/nepali-text-summarization/notebook) |
 | 18 | Nepali text summarization | [🔗](https://www.kaggle.com/datasets/shikharghimire/nepali-language-sentiment-analysis-movie-reviews) |
-
+| 19 | High quality TTS data for Nepali | [🔗](https://www.openslr.org/43/) |
+| 20 | The LJ Speech Dataset | [🔗](https://keithito.com/LJ-Speech-Dataset/) |
+| 21 | Centre of Speech Technology Research | [🔗](https://www.cstr.ed.ac.uk/projects/blizzard/2012/phase_one/) |
+| 22 | Mongolian Text to Speech | [🔗](https://www.bible.com/mn/versions/1590-2013-ariun-bibli-2013) |
 
