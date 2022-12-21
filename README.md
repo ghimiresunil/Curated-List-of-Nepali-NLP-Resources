@@ -336,4 +336,6 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 | 20 | The LJ Speech Dataset | [🔗](https://keithito.com/LJ-Speech-Dataset/) |
 | 21 | Centre of Speech Technology Research | [🔗](https://www.cstr.ed.ac.uk/projects/blizzard/2012/phase_one/) |
 | 22 | Mongolian Text to Speech | [🔗](https://www.bible.com/mn/versions/1590-2013-ariun-bibli-2013) |
+| 23 | word2vec | [🔗](https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language) |
+| 24 | 300D word2vec | [🔗](https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language) |
 
