@@ -338,4 +338,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 | 22 | Mongolian Text to Speech | [🔗](https://www.bible.com/mn/versions/1590-2013-ariun-bibli-2013) |
 | 23 | word2vec | [🔗](https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language) |
 | 24 | 300D word2vec | [🔗](https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language) |
+| 25 | Nepali Lemmatizer | [🔗](https://github.com/dpakpdl/NepaliLemmatizer/tree/master/Lemmatization/data) |
+
+
 
