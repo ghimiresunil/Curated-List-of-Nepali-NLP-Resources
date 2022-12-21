@@ -330,6 +330,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 | 14 | Sentiment_analysis_in_Nepali | [🔗](https://github.com/sarozz/Sentiment_analysis_in_Nepali/blob/master/data.csv) |
 | 15 | SentimentAnalysis | [🔗](https://github.com/sagarl123/NepaliNLP-SentimentAnalysis/blob/main/collected_labeled_data.csv) |
 | 16 | Nepali Sentiment Analysis| [🔗](https://www.kaggle.com/datasets/smaheshacharya/nepali-sentiment-analysis) |
-| 17 | Nepali Language Sentiment Analysis - Movie Reviews | [🔗](https://www.kaggle.com/datasets/shikharghimire/nepali-language-sentiment-analysis-movie-reviews) |
+| 17 | Nepali Language Sentiment Analysis - Movie Reviews | [🔗](https://www.kaggle.com/code/imageinfo/nepali-text-summarization/notebook) |
+| 18 | Nepali text summarization | [🔗](https://www.kaggle.com/datasets/shikharghimire/nepali-language-sentiment-analysis-movie-reviews) |
 
 
