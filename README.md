@@ -310,7 +310,7 @@ Sinhala, Nepali, and Bangladeshi Bengali (Kjartansson et al., 2018)](https://sto
 - [Research Report on PDA Localization (Bal et al.)](https://web.archive.org/web/20150105024515/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP19.pdf)
 
 
-## 38. Nepali Dataset in One Heading
+## 39. Nepali Dataset in One Heading
 
 | S.N. | Dataset | Resources | 
 | :------: | ------- | :--------: |
